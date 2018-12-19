@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLink, faChevronLeft, faChevronRight, faRandom } from '@fortawesome/free-solid-svg-icons';
 
 export default class Actions extends Component {
-  copyPermaLink(copyText) {
+  copyPermaLink(quoteNumber) {
     const textField = document.createElement('textarea');
-    textField.innerText = `${window.location.origin}/${copyText}`;
+    textField.innerText = `${window.location.origin}/${quoteNumber}`;
+    window.location = textField.innerText;
     document.body.appendChild(textField);
     textField.select();
     document.execCommand('copy');

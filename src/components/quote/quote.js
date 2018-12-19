@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import { allQuotes } from '../../helpers/quotes';
 
 class Quote extends Component {

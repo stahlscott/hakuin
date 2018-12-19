@@ -15,7 +15,7 @@ export const hakuin = [
   [
     'The cause of our sorrow is ego delusion.',
     'From dark path to dark path we’ve wandered in darkness.',
-    'How can we be free from birth and death ?',
+    'How can we be free from birth and death?',
     'The gateway to freedom is zazen samadhi-',
     'beyond exaltation, beyond all our praises,',
     'the pure Mahayana.',
@@ -30,7 +30,7 @@ export const hakuin = [
   [
     'Thus one true samadhi extinguishes evils;',
     'it purifies karma, dissolving obstructions.',
-    'Then where are the dark paths to lead us astray ?',
+    'Then where are the dark paths to lead us astray?',
     'The pure lotus land is not far away.',
   ],
   [
@@ -58,10 +58,10 @@ export const hakuin = [
     'Our thought now being no-thought,',
     'our dancing and songs are the voice of the Dharma.',
   ],
-  ['How vast is the heaven of boundless samadhi !', 'How bright and transparent the moonlight of wisdom !'],
+  ['How vast is the heaven of boundless samadhi!', 'How bright and transparent the moonlight of wisdom!'],
   [
     'What is there outside us,',
-    'what is there we lack ?',
+    'what is there we lack?',
     'Nirvana is openly shown to our eyes.',
     'This earth where we stand is the pure lotus land,',
     'and this very body-the body of Buddha.',
