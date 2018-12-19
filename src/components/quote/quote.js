@@ -8,11 +8,9 @@ class Quote extends Component {
 
     return (
       <div>
-        <div>{quoteNumber + 1}</div>
+        <div>{quote.map((line, index) => (line ? <div key={index}>{line}</div> : <p />))}</div>
         <p />
-        {quote.map((line, index) => (
-          <div key={index}>{line}</div>
-        ))}
+        <div>{quoteNumber + 1}</div>
       </div>
     );
   }

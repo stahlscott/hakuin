@@ -68,6 +68,16 @@ export const hakuin = [
   ],
 ];
 
-const otherQuotes = [['Computers are useless.', 'They only give you answers.', '- Picasso']];
+const otherQuotes = [
+  [
+    'Great is the matter of birth and death',
+    'Life slips quickly by',
+    'Time waits for no one',
+    'Wake up! Wake up!',
+    "Don't waste a moment.",
+  ],
+  ['Neither the world inside you', 'nor the world outside you', 'is anything like it seems.', '', '- Robert Wright'],
+  ['Computers are useless.', 'They can only give you answers.', '', '- William Fifield'],
+];
 
 export const allQuotes = [].concat(hakuin, otherQuotes);
